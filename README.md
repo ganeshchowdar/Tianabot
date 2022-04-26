@@ -1,18 +1,18 @@
-<p align="center"><img src="https://telegra.ph/file/8edbffafac3e7f3e8ad10.jpg"></p>
+<p align="center"><img src="https://te.legra.ph/file/be08ab2124516f90d2a15.jpg"></p>
 
 <h4 align="center">
     A Telegram Powerfull Group Managment Bot written in Python using Pyrogram and Telethon.
 </h4>
 <p align="center">
-    <a href="https://t.me/Tiana_Prince_Bot"> Ready-To-Use Bot </a> •
+    <a href="https://t.me/SkylarMusicbot"> Ready-To-Use Bot </a> •
     <a href="http://www.prince-botz.tk/2022/02/tiana-bot.html?m=1"> Documentation </a> •
-    <a href="https://t.me/TianaxUpdates"> Update Channel </a> •
-    <a href="https://t.me/TianaxSupport"> Support Chat </a> 
+    <a href="https://t.me/TeluguFederationlogs"> Update Channel </a> •
+    <a href="https://t.me/Telugu_Friendly_Group"> Support Chat </a> 
 </p>
     
 # Tiana Bot
 #### Tiana is a Telegram group managment bot made using Telethon and Pyrogram which makes it modern and faster than most of the exisitng Telegram Chat Managers.
-<p align="center"><img src="https://telegra.ph/file/fae3dd2a2c6e491e4893e.jpg"></p>
+<p align="center"><img "https://te.legra.ph/file/9a76ae341310971055fa3.jpg"></p>
 
 #### Tiana's features over other bots:
 - Modern
@@ -25,7 +25,7 @@
 - Smart Ai System
 - Easy To Use
 
-Can be found on Telegram as [@TianaRobot](https://t.me/TIANA_PRINCE_BOT)
+Can be found on Telegram as [@TianaRobot](https://t.me/@SkylarMusicbot)
 
 ## Deployment
 First Step!
@@ -56,7 +56,7 @@ Read [Docs](http://www.prince-botz.tk/2022/02/tiana-bot.html?m=1) for Detailed D
 > Those two vars are not Mandatory! You can leave them blank too. 
     
 <h4>Click the button below to deploy Tiana Group Managment Bot on Heroku!</h4>    
-<p><a href="https://heroku.com/deploy?template=https://github.com/Prince-Botz/TianaBot"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
+<p><a href="https://heroku.com/deploy?template=https://github.com/ganeshchowdar/Tianabot.git"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
 
 <h4>Click the button below to deploy Tiana Music Bot on Heroku!</h4>    
 <p><a href="https://heroku.com/deploy?template=https://github.com/Prince301102/Tiana-Music"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p> 
