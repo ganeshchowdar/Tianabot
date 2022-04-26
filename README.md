@@ -10,11 +10,11 @@
     <a href="https://t.me/Telugu_Friendly_Group"> Support Chat </a> 
 </p>
     
-# Tiana Bot
+# ƧƘƳԼƛƦ MƲƧƖƇ ƁƠƬ
 #### Tiana is a Telegram group managment bot made using Telethon and Pyrogram which makes it modern and faster than most of the exisitng Telegram Chat Managers.
 <p align="center"><img "https://te.legra.ph/file/9a76ae341310971055fa3.jpg"></p>
 
-#### Tiana's features over other bots:
+#### ƧƘƳԼƛƦ's features over other bots:
 - Modern
 - Fast
 - Fully open-source
@@ -25,7 +25,7 @@
 - Smart Ai System
 - Easy To Use
 
-Can be found on Telegram as [@TianaRobot](https://t.me/@SkylarMusicbot)
+Can be found on Telegram as [@SkylarMusicbot](https://t.me/SkylarMusicbot)
 
 ## Deployment
 First Step!
@@ -68,7 +68,7 @@ Read [Docs](http://www.prince-botz.tk/2022/02/tiana-bot.html?m=1) for Detailed D
 
 
 ```console
-$ git clone https://github.com/Prince-Botz/TianaBot
+$ git clone https://github.com/ganeshchowdar/ƧƘƳԼƛƦ MƲƧƖƇbot.git
 $ cd TianaBot
 $ pip3 install -U -r requirements.txt
 $ cp sample.env .env
@@ -82,9 +82,9 @@ $ bash start
 
 ## Contact & Support
 
-- [Telegram Channel](https://t.me/TianaxUpdates)
-- [Telegram Support Group](https://t.me/TianaxSupport)
-- [Contact Owner](https://t.me/PrincexAssistantBot)
+- [Telegram Channel](https://t.me/TeluguFederationlogs)
+- [Telegram Support Group](https://t.me/TgMusic_Station)
+- [Contact Owner](https://t.me/Contactmehere1_bot)
 
 ## License
 
