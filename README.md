@@ -7,11 +7,11 @@
     <a href="https://t.me/SkylarMusicbot"> Ready-To-Use Bot </a> •
     <a href="http://www.prince-botz.tk/2022/02/tiana-bot.html?m=1"> Documentation </a> •
     <a href="https://t.me/TeluguFederationlogs"> Update Channel </a> •
-    <a href="https://t.me/Telugu_Friendly_Group"> Support Chat </a> 
+    <a href="https://t.me/TgMusic_Station"> Support Chat </a> 
 </p>
     
 # ƧƘƳԼƛƦ MƲƧƖƇ ƁƠƬ
-#### Tiana is a Telegram group managment bot made using Telethon and Pyrogram which makes it modern and faster than most of the exisitng Telegram Chat Managers.
+#### ƧƘƳԼƛƦ is a Telegram group managment bot made using Telethon and Pyrogram which makes it modern and faster than most of the exisitng Telegram Chat Managers.
 <p align="center"><img "https://te.legra.ph/file/9a76ae341310971055fa3.jpg"></p>
 
 #### ƧƘƳԼƛƦ's features over other bots:
