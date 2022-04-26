@@ -10,7 +10,7 @@
     <a href="https://t.me/TgMusic_Station"> Support Chat </a> 
 </p>
     
-# ƧƘƳԼƛƦ MƲƧƖƇ ƁƠƬ
+# ƧƘƳԼƛƦ ƁƠƬ
 #### ƧƘƳԼƛƦ is a Telegram group managment bot made using Telethon and Pyrogram which makes it modern and faster than most of the exisitng Telegram Chat Managers.
 <p align="center"><img "https://te.legra.ph/file/9a76ae341310971055fa3.jpg"></p>
 
