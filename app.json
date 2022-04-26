@@ -1,17 +1,17 @@
 {
-      "name": "Tiana Bot",
-      "logo": "https://te.legra.ph/file/5f575d5b4a1d019ae2864.png",
+      "name": "ƧƘƳԼƛƦ ƁƠƬ",
+      "logo":https://te.legra.ph/file/9a76ae341310971055fa3.png",
       "description": "A Telegram Powerfull Group Managment Bot written in Python using Pyrogram and Telethon",
       "keywords": [
          "telegram",
          "anime",
          "group",
          "manager",
-         "tiana",
-         "tianabot",
+         "ƧƘƳԼƛƦ",
+         "ƧƘƳԼƛƦ ƁƠƬ",
          "telegram"
       ],   
-   "repository": "https://github.com/Prince-Botz/TianaBot",
+   "repository": "https://t.me/TgMusic_Station",
    "addons": [
       {
          "options": {
@@ -25,7 +25,7 @@
       "url": "https://github.com/heroku/heroku-buildpack-python"
     },
     {
-      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+      "url": "https://github.com/ganeshchowdar/heroku-buildpack-ffmpeg-latest"
     }
   ],  
    "env": {
@@ -69,29 +69,29 @@
       },
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "PrincexBots"
+         "value": "@Contactmehere1_bot"
       },
       "BOT_USERNAME": {
          "description": "Your bot username without the @",
-         "value": "Tiana_Prince_Bot"
+         "value": "SkylarMusicbot"
       },
       "ASS_USERNAME": {
          "description": "Your Musicbot Assistant username without the @",
-         "value": "TianaxAssistant"
+         "value": "Skylar_Assistant"
       },
       "BOT_NAME": {
          "description": "Your Bot Name",
-         "value": "Tiana"
+         "value": "Skylar"
       },
       "UPDATE_CHANNEL": {
          "description": "Your Telegram Bot Update Channel username Without @ like: TianaxUpdates.",
          "required": true,
-         "value": "TianaxUpdates"
+         "value": "TeluguFederationlogs"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username Without @ like: TianaxSupport.",
          "required": true,
-         "value": "TianaxSupport"
+         "value": "TgMusic_Station"
       },
       "START_IMG": {
          "description": "Enter Your Bot Image Telegraph Link",
@@ -164,7 +164,7 @@
       "DONATION_LINK": {
          "description": "Optional: link where you would like to receive donations. If you are a noob, better leave it linking to paul",
          "required": false,
-         "value": "https://t.me/PrincexDonateBot"
+         "value": "https://t.me/Music_Freaks_Anythink"
       }   
    }
 }
